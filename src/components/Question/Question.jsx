@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
-import { QuizContext } from '../context/quiz'
-import Option from './Option/Option'
+import { QuizContext } from '../../context/quiz'
+import Option from '../Option/Option'
 import './Question.css'
 
 const Question = () => {

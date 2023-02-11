@@ -1,9 +1,9 @@
 import './App.css'
 import { useContext, useEffect } from 'react'
-import Welcome from './components/Welcome'
-import Question from './components/Question'
+import Welcome from './components/Welcome/Welcome'
+import Question from './components/Question/Question'
 import { QuizContext } from './context/quiz'
-import GameOver from './components/GameOver'
+import GameOver from './components/GameOver/GameOver'
 
 function App() {
   const [quizState, dispatch] = useContext(QuizContext);
