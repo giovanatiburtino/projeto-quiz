@@ -8,7 +8,6 @@ Um aplicativo de perguntas e respostas com pontuação.
 - HTML
 - CSS
 - React
-- React Icons
 
 ## 💿 Demonstração
 [Link Demonstração](https://app-quiz-orcin.vercel.app/)
