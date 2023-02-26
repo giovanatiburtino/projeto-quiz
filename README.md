@@ -4,15 +4,10 @@
 
 Um aplicativo de perguntas e respostas com pontuação.
  
-## ⚒️ Tecnologias Utilizadas
-- HTML
-- CSS
-- React
-
-## 💿 Demonstração
+## 💻 Demonstração
 [Link Demonstração](https://app-quiz-orcin.vercel.app/)
 
-## 💻 Como rodar este projeto?
+## 💿 Como rodar este projeto?
 
 ```bash
 
@@ -28,6 +23,11 @@ $ npm install
 # Execute a aplicação
 $ npm run dev
 ```
+
+## 🚀 Tecnologias Utilizadas
+- HTML
+- CSS
+- React
 
 ## 👩‍💻 Autores
 
